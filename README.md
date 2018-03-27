@@ -29,4 +29,4 @@
 | 完了日 | アカウント名 | 習得度 |
 |:---:|:---:|:---:|
 |2018/03/27 |Shono1207 | 普通 |
-|20xx/xx/xx |xxxxxxxxx | xx |
+|20xx/xx/xx |TestUserxxxx | xx |
